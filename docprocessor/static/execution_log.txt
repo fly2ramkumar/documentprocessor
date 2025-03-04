@@ -1,0 +1,38 @@
+(.venv) PS C:\Users\Ramkumar R\PycharmProjects\documentprocessor\docprocessor> python document_processor.py
+Started Executing document processor -  2025-03-04 10:55:25
+completed split_pdf_into_chunks -  2025-03-04 10:55:25
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_1.pdf - 2025-03-04 10:55:25
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_2.pdf - 2025-03-04 10:55:34
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_3.pdf - 2025-03-04 10:55:50
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_4.pdf - 2025-03-04 10:56:16
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_5.pdf - 2025-03-04 10:56:22
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_6.pdf - 2025-03-04 10:56:28
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_7.pdf - 2025-03-04 10:56:35
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_8.pdf - 2025-03-04 10:56:42
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_9.pdf - 2025-03-04 10:56:48
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_10.pdf - 2025-03-04 10:56:55
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_11.pdf - 2025-03-04 10:57:02
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_12.pdf - 2025-03-04 10:57:09
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_13.pdf - 2025-03-04 10:57:33
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_14.pdf - 2025-03-04 10:58:02
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_15.pdf - 2025-03-04 10:58:32
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_16.pdf - 2025-03-04 10:58:59
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_17.pdf - 2025-03-04 10:59:17
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_18.pdf - 2025-03-04 10:59:34
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_19.pdf - 2025-03-04 10:59:46
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_20.pdf - 2025-03-04 10:59:53
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_21.pdf - 2025-03-04 10:59:59
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_22.pdf - 2025-03-04 11:00:06
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_23.pdf - 2025-03-04 11:00:12
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_24.pdf - 2025-03-04 11:00:20
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_25.pdf - 2025-03-04 11:00:27
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_26.pdf - 2025-03-04 11:00:34
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_27.pdf - 2025-03-04 11:00:41
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_28.pdf - 2025-03-04 11:00:48
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_29.pdf - 2025-03-04 11:00:55
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_30.pdf - 2025-03-04 11:01:02
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_31.pdf - 2025-03-04 11:01:09
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_32.pdf - 2025-03-04 11:01:16
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_33.pdf - 2025-03-04 11:01:31
+Processing file: C:/Users/work/RAG/inputFiles/424B5/split_34.pdf - 2025-03-04 11:01:44
+completed Executing document processor -  2025-03-04 11:01:57
